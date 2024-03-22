@@ -7,3 +7,10 @@ Rust examples/experiments with the ESP32C3-AI board (bare metal)
 
 
 
+
+
+cargo build --release
+
+
+# build, flash and monitor
+cargo espflash flash --release && cargo espflash monitor

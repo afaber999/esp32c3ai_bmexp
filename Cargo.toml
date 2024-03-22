@@ -1,0 +1,3 @@
+[workspace]
+members = ["bare-empty", "bare-blink","bare-bbws2812"]
+resolver = "2"

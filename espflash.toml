@@ -1,0 +1,8 @@
+
+[connection]
+serial = "/dev/ttyUSB0"
+
+
+#baudrate = 460800
+baudrate = 921600
+
